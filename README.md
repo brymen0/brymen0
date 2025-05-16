@@ -5,11 +5,11 @@ Universidad de Cuenca — Actualmente cursando el **séptimo ciclo**
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-mendoza-1a3873285/)
 
 
-Soy un estudiante apasionado por la tecnología y el aprendizaje constante. A lo largo de mi formación académica y aprendizaje autodidacta, he desarrollado habilidades en programación, estructuras de datos, bases de datos, Machine Learning, ingeniería de software, entre otros.
+Soy un estudiante apasionado por la tecnología y el aprendizaje constante. A lo largo de mi formación académica y aprendizaje autodidacta, he desarrollado habilidades en programación, estructuras de datos, bases de datos, Machine Learning, sistemas operativos, ingeniería de software, entre otros.
 
 ---
 
-- **Lenguajes de programación:** C, Java, Python, JavaScript  
+- **Lenguajes de programación:** C, Java, Python, Bash, JavaScript  
 - **Desarrollo web:** Conocimientos básicos de HTML, CSS, y React  
 - **Librerías:** Pandas, Keras, TensorFlow  
 - **Bases de datos:** PostgreSQL, MySQL  
