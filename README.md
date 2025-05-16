@@ -1,17 +1,18 @@
 ## Hola, mi nombre es Bryan Mendoza 👋
 ### Estudiante de Ingeniería en Ciencias de la Computación
 Universidad de Cuenca — Actualmente cursando el **séptimo ciclo**
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-mendoza-1a3873285/)
 
 
-Soy un estudiante apasionado por la tecnología y el aprendizaje constante. A lo largo de mi formación académica y aprendizaje autodidacta, he desarrollado habilidades en programación, estructuras de datos, bases de datos, Machine Learning, Ingeniería de software, entre otros.
+Soy un estudiante apasionado por la tecnología y el aprendizaje constante. A lo largo de mi formación académica y aprendizaje autodidacta, he desarrollado habilidades en programación, estructuras de datos, bases de datos, Machine Learning, ingeniería de software, entre otros.
 
 ---
 
-- **Lenguajes de programación:** C, Java, Python, JavaScript, React  
+- **Lenguajes de programación:** C, Java, Python, JavaScript  
+- **Desarrollo web:** Conocimientos básicos de HTML, CSS, y React  
+- **Librerías:** Pandas, Keras, TensorFlow  
 - **Bases de datos:** PostgreSQL, MySQL  
-- **Ciencia de datos:** Conocimientos básicos de *Machine Learning*, manejo de Pandas, Keras, TensorFlow
-- **Otras habilidades:** Algoritmos, estructuras de datos, desarrollo de proyectos académicos
 
 ---
 Estoy siguiendo el itinerario de **Ciencia de Datos**, donde estoy profundizando en técnicas de análisis, visualización y aprendizaje automático. Me interesa combinar el desarrollo de software con la capacidad de extraer valor de los datos.
