@@ -9,10 +9,11 @@ Soy un estudiante apasionado por la tecnología y el aprendizaje constante. A lo
 
 ---
 
-- **Lenguajes de programación:** C, Java, Python, Bash, JavaScript  
-- **Desarrollo web:** Conocimientos básicos de HTML, CSS, y React  
+- **Lenguajes de programación:** Python, JavaScript, C, Java, Bash  
+- **Desarrollo web:** HTML, CSS, JS y React  
 - **Librerías:** Pandas, Keras, TensorFlow  
-- **Bases de datos:** PostgreSQL, MySQL  
+- **Bases de datos:** Oracle, PostgreSQL, MySQL
+- **Frameworks:** Django, DRF
 
 ---
 Estoy siguiendo el itinerario de **Ciencia de Datos**, donde estoy profundizando en técnicas de análisis, visualización y aprendizaje automático. Me interesa combinar el desarrollo de software con la capacidad de extraer valor de los datos.
