@@ -9,7 +9,7 @@ Soy un estudiante apasionado por la tecnología y el aprendizaje constante. A lo
 
 ---
 
-- **Lenguajes de programación:** Python, JavaScript, C, Java, Bash  
+- **Lenguajes de programación:** Python, JavaScript, SQL, C, Java, Bash  
 - **Desarrollo web:** HTML, CSS, JS y React  
 - **Librerías:** Pandas, Keras, TensorFlow  
 - **Bases de datos:** Oracle, PostgreSQL, MySQL
