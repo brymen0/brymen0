@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Bryan Mendoza 👋
 ### Estudiante de Ingeniería en Ciencias de la Computación
-Universidad de Cuenca — Actualmente cursando el **séptimo ciclo**
+Universidad de Cuenca — Actualmente cursando **octavo ciclo**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-mendoza-1a3873285/)
 
