@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Bryan Mendoza 👋
 ### Estudiante de Ingeniería en Ciencias de la Computación
-Universidad de Cuenca — Actualmente cursando **octavo ciclo**
+Universidad de Cuenca — Actualmente cursando **noveno ciclo**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-mendoza-1a3873285/)
 
@@ -10,10 +10,12 @@ Soy un estudiante apasionado por la tecnología y el aprendizaje constante. A lo
 ---
 
 - **Lenguajes de programación:** Python, JavaScript, SQL, C, Java, Bash  
-- **Desarrollo web:** HTML, CSS, JS y React  
+- **Desarrollo web:** HTML, CSS, JS y React
+- **Desarrollo mobile:** React Native
 - **Librerías:** Pandas, Keras, TensorFlow  
 - **Bases de datos:** Oracle, PostgreSQL, MySQL
-- **Frameworks:** Django, DRF
+- **Frameworks:** Django, DRF, Express, FastAPI
+- **Data Engineering:** Pentaho, Pandas, Airflow
 
 ---
 Estoy siguiendo el itinerario de **Ciencia de Datos**, donde estoy profundizando en técnicas de análisis, visualización y aprendizaje automático. Me interesa combinar el desarrollo de software con la capacidad de extraer valor de los datos.
